@@ -1,1 +1,2 @@
 This is a new file for Git practice.
+Adding more content to the file.
